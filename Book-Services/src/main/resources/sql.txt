@@ -1,0 +1,4 @@
+insert into book(book_id,author,available_copies,b_id,b_name,total_copies) values(1,'Ross Suarez',10,'B121','History',10);
+insert into book(book_id,author,available_copies,b_id,b_name,total_copies) values(2,'Raj',10,'B223','Science',10);
+insert into book(book_id,author,available_copies,b_id,b_name,total_copies) values(3,'Ram',10,'B421','Zoology',10);
+insert into book(book_id,author,available_copies,b_id,b_name,total_copies) values(4,'Sai',20,'B521','C',20);
