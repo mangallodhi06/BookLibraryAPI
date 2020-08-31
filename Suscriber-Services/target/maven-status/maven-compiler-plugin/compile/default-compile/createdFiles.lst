@@ -1,0 +1,5 @@
+com\suscribe\controllers\SuscriberController.class
+com\suscribe\services\SuscriberServiceImpl.class
+com\suscribe\model\Suscriber.class
+com\suscribe\Demo2Application.class
+com\suscribe\repository\SuscriberRepo.class
